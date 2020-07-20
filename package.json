@@ -1,0 +1,12 @@
+{
+  "name": "desmotiva_bot",
+  "version": "1.0.0",
+  "description": "A twitter bot for demotivational messages",
+  "main": "index.js",
+  "author": "Alexandre Lopes <alexandre9999lopes@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "twit": "^2.2.11"
+  }
+}

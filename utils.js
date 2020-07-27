@@ -24,6 +24,7 @@ exports.demotivate = () => {
 		T.post("statuses/update", { status: phrase.message }, (err, data, response) => {
 			if (err) throw err;
 		});
+		console.log("Desmotivação efetuada!");
 	} catch (error) {
 		console.error(error);
 	}

@@ -1,7 +1,7 @@
 const fs = require("fs");
-
+const path = require("path");
 const config = require("../config/twitter");
-
+const t = require("../database/phrases.json")
 const Twit = require("twit");
 const T = new Twit(config);
 
@@ -12,7 +12,7 @@ function randomNumber(min, max) {
 }
 
 function getPhrase() {
-	const phrases = JSON.parse(fs.readFileSync("../database/phrases.json"));
+	const phrases = JSON.parse(fs.readFileSync(path.resolve(__dirname, "../database/phrases.json")));
 
 	return phrases[randomNumber(0, phrases.length)];
 }

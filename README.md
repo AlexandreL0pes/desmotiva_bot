@@ -5,11 +5,6 @@
     <br>
 </h3>
 
-![Desmotiva Bot por Alexandre Lopes]()
-
-# [Desmotiva_bot]() - Twitter Bot
-
-Um bot para desmotivar o povo brasileiro
 
 ---
 <h4 align="center">

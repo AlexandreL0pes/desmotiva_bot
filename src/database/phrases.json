@@ -38,17 +38,21 @@
 	{
 		"auth": "Daniel Cunha",
 		"message": "Eu posso e eu vou desistir."
-  },
-  {
+	},
+	{
 		"auth": "Leonan José",
 		"message": "Hoje estão rindo do seu esforço, amanhã rirão do seu fracasso."
-  },
-  {
+  	},
+  	{
 		"auth": "Karine Paes",
 		"message": "O segredo do fracasso é só começar."
-  },  
-  {
+  	},  
+  	{
 		"auth": "Karine Paes",
 		"message": "Não pare até se humilhar."
+	},  
+  	{
+		"auth": "Ana Luiza Souza",
+		"message": "É só uma fase ruim, logo vai piorar."
 	}
 ]

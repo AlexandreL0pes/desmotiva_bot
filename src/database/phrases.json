@@ -38,17 +38,37 @@
 	{
 		"auth": "Daniel Cunha",
 		"message": "Eu posso e eu vou desistir."
-  },
-  {
+	},
+	{
 		"auth": "Leonan José",
 		"message": "Hoje estão rindo do seu esforço, amanhã rirão do seu fracasso."
-  },
-  {
+  	},
+  	{
 		"auth": "Karine Paes",
 		"message": "O segredo do fracasso é só começar."
-  },  
-  {
+  	},  
+  	{
 		"auth": "Karine Paes",
 		"message": "Não pare até se humilhar."
+	},  
+  	{
+		"auth": "Ana Luiza Souza",
+		"message": "É só uma fase ruim, logo vai piorar."
+	},  
+  	{
+		"auth": "Ana Luiza Souza",
+		"message": "Você é mais fraco do que parece."
+	},  
+  	{
+		"auth": "Ana Luiza Souza",
+		"message": "O recomeço é a oportunidade de um novo fracasso."
+	},  
+  	{
+		"auth": "Ana Luiza Souza",
+		"message": "Nunca é tarde para desistir."
+	},  
+  	{
+		"auth": "Ana Luiza Souza",
+		"message": "Nunca subestime sua incapacidade."
 	}
 ]

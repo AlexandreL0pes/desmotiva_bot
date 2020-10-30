@@ -15,5 +15,8 @@
 		"dotenv": "^8.2.0",
 		"readline-sync": "^1.4.10",
 		"twit": "^2.2.11"
+	},
+	"devDependencies": {
+		"all-contributors-cli": "^6.19.0"
 	}
 }

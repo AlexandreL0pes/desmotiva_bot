@@ -90,6 +90,57 @@
 		{
 		"auth": "Daniel Cunha",
 		"message": "Seja o protagonista do seu fracasso."
-
+	},
+		{
+		"auth":"Daniel Cunha",
+		"message": "Você é mais fraco do que pensa."
+	},
+		{
+		"auth": "Daniel Cunha",
+		"message": "Um dia você está por baixo. No outro você não está por cima"		
+	},
+		{
+		"auth": "Daniel Cunha",
+		"message": "Se for desistir, desista de tentar" 
+	},
+		{
+		"auth":"Daniel Cunha",
+		"message": "Ninguém precisa te humilhar. Um espelho já faz isso"
+	},
+		{
+		"auth": "Daniel Cunha",
+		"message": "Muitos vão dizer que você não consegue, acredite neles." 
+	},
+	{
+		"auth": "Daniel Cunha",
+		"message": "Para ficar ruim, você tem que melhorar muito" 
+	},
+	{
+		"auth": "Daniel Cunha",
+		"message": "O recomeço é a oportunidade de um novo fracasso" 
+	},
+	{
+		"auth": "Daniel Cunha",
+		"message": "Durma 12 horas por dia, assim as chances de fazer merda caem pela metade" 
+	},
+	{
+		"auth": "Daniel Cunha",
+		"message": "A vida é um conto de falhas" 
+	},
+	{
+		"auth": "Daniel Cunha",
+		"message": "Reclame menos, fracasse mais" 
+	},
+	{
+		"auth": "Daniel Cunha",
+		"message": "Não deixa para desistir amanhã do que você pode desistir ainda hoje" 
+	},
+	{
+		"auth": "Daniel Cunha",
+		"message": "Se ontem foi ruim, fique tranquilo, hoje será pior" 
+	},
+	{
+		"auth": "Daniel Cunha",
+		"message": "Acordar foi a pior decisão que você tomou hoje" 
 	}
 ]

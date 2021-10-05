@@ -15,7 +15,7 @@
 
 ## 🔖 Sobre
 O <strong>Desmotiva Bot</strong> é um bot do twitter para desmotivar as pessoas, sendo um antagonista do <a href="https://github.com/vinitshahdeo/Quotter" target="_blank">Quotter</a>.
-Essa aplicação foi contruída com o objetivo de desenvolver o conhecimento com Node.js.
+Essa aplicação foi construída com o objetivo de desenvolver o conhecimento com Node.js.
 
 
 
@@ -27,11 +27,11 @@ Essa aplicação foi contruída com o objetivo de desenvolver o conhecimento com
 
   - Bot
     - Rode o comando de inicialização: `yarn start`
-  - Teste (Twitter) 
+  - Teste (Twitter)
     - Execute este comando para testar a publicação de mensagens: `yarn test:tweet`
-  - Teste (Fast Tweet) 
-    - Execute este comando para fazer com que o bot publique a cada minuto: `yarn test:fast_tweet` 
-  - Adicionar Frase 
+  - Teste (Fast Tweet)
+    - Execute este comando para fazer com que o bot publique a cada minuto: `yarn test:fast_tweet`
+  - Adicionar Frase
     - Execute este comando para adicionar uma frase ao bot: `yarn add-phrase`
   
 
@@ -42,7 +42,7 @@ Essa aplicação foi contruída com o objetivo de desenvolver o conhecimento com
 - Commit suas mudanças: `git commit -m 'feat: My new feature'`
 - Push a sua branch: `git push origin my-feature`
 
-## ✨ Contributors 
+## ✨ Contributors
 
 Agradecemos à estas pessoas incríveis ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
